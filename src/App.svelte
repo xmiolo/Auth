@@ -4,6 +4,6 @@
 
 </script>
 
-<h1>Auth_H1</h1>
+<h1>Auth</h1>
 
 <Login />
